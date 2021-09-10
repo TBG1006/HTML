@@ -8,6 +8,3 @@ After assembling the dataset, I used Matplotlib to plot various aspects of the w
 ## [Click to view website:](https://tbg1006.github.io/HTML/)
 
 ![Landing page large screen](Images/landing-lg.png)
-
-
-![Landing page large screen](Images/landingResize.png)
