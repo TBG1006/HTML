@@ -1,16 +1,15 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-## Result:
+## Background:
 
-[Click to view website:](https://tbg1006.github.io/HTML/)
+## [Click to view website:](https://tbg1006.github.io/HTML/)
 
 
 
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+<!-- In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. -->
 
-### Screenshots
-
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+## Screenshots
+<!-- This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images. -->
 
 #### <a id="landing-page"></a>Landing page
 
