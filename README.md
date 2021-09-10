@@ -2,6 +2,8 @@
 
 ## Background:
 
+Create a website to display plots from weather API.
+
 ## [Click to view website:](https://tbg1006.github.io/HTML/)
 
 
@@ -11,9 +13,11 @@
 ## Screenshots
 <!-- This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images. -->
 
-#### <a id="landing-page"></a>Landing page
+#Landin Page:
 
-Large screen:
+![Landing page large screen](Images/landingResize.png)
+
+#Large screen:
 
 ![Landing page large screen](Images/landingResize.png)
 
